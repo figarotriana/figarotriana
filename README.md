@@ -26,8 +26,8 @@ This has helped me develop communication, adaptability, and experience in remote
 - ✅ Learn Python fundamentals and improve problem-solving skills.
 - ✅ Get comfortable with Git and GitHub workflows.
 - ⏳ Build small-to-mid projects to strengthen my portfolio.
-- ⏳ Start working as a developer — ideally remote and well-paid.
-- 🔨 Launch an MVP of a sports matchmaking app (project with my brother).
+- ⏳ Start working as a developer — ideally remote.
+- 🔨 Launch an MVP of a sports matchmaking app, its a project with my brother, we call it "la liga" or "the leage".
 - 🎨 Continue blending code with creativity: 3D modeling, automation, and digital fabrication.
 
 ---
